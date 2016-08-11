@@ -1,1 +1,3 @@
 # projectEuler
+
+This is my attempt :-) to try to do as much as possible of project EUler in clojure. First one took forever...
